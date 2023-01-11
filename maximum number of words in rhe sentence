@@ -1,0 +1,19 @@
+a=input ("enter the sentences:") m=input ("enter the sentences:") r=input ("enter the sentences:")
+DEV i=input ("enter the sentences:")
+b=a.split ()
+c-len (b)
+d-m.split ()
+e=len (d)
+I=r・Split (;
+g=len (f)
+Documents
+Shortcut h=i.split ()
+j=len (h)
+if ce and c>g and c>j:
+sce
+print (a, "has", c, "and it is the maximum number of words") if exc and e>g and e>j:
+print (m, "has",e, "the maximum number of words") if g>c and gre and g>j:
+print (r, "has", g, "the maximum number of words")
+test.it
+else:
+print (i, "has", j, "the maximum number of words")
