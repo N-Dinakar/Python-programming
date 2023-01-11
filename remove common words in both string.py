@@ -1,0 +1,7 @@
+string1=input("Enter the string1:")
+string2=input("Enter the string2:")
+a=string1.split()
+b=string2.split()
+a=set(a)
+b=set(b)
+print(a.symmetric_difference(b))
